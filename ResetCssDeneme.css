@@ -89,3 +89,22 @@ h3{
     width: 184.5px;
     border-radius: 4px;
 }
+
+.container .a4 button{
+
+box-sizing: border-box;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 24px;
+gap: 10px;
+width: 369px;
+height: 56px;
+background: #FDC3D4;
+border: 1px solid #CB6565;
+border-radius: 4px;
+flex: none;
+order: 3;
+flex-grow: 0;
+}
